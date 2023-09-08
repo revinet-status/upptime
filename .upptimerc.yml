@@ -54,6 +54,10 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+commitMessages:
+  commitAuthorName: "revibot"
+  commitAuthorEmail: "github-revibot@revi.kr"
+
 workflowSchedule:
   graphs: "0 3,15 * * *"
   responseTime: "0 */6 * * *"
