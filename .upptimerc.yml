@@ -53,7 +53,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  - robotsText: "User-agent: * \n Disallow: /"
+  robotsText: "User-agent: * \n Disallow: /"
 
 commitMessages:
   commitAuthorName: "revibot"
