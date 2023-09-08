@@ -53,6 +53,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  - robotsText: "User-agent: * \n Disallow: /"
 
 commitMessages:
   commitAuthorName: "revibot"
@@ -66,6 +67,12 @@ workflowSchedule:
   updateTemplate: "0 15 * * *"
   updates: "0 6,18 * * *"
   uptime: "*/5 * * * *"
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
+
+user-agent: upptime(@revinet-status, v2023-09-09)/ contact @revi for issues
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
