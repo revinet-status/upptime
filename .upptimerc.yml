@@ -2,7 +2,6 @@
 owner: revinet-status # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
-
 # Order of sites: Main Page/ReviPhab above anything else, then ABC order, then legacy sites.
 sites:
   - name: Main Page
