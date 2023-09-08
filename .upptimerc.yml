@@ -1,31 +1,68 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: revinet-status # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+
+# Order of sites: Main Page/ReviPhab above anything else, then ABC order, then legacy sites.
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Main Page
+    url: https://revi.xyz
+  - name: ReviPhab
+    url: https://bugs.revi.xyz/status/
+  - name: Basecamp
+    url: $BASECAMP_URL
+    icon: https://basecamp.com/favicon.ico 
+  - name: Blog (by omg.lol)
+    url: https://revi.blog/P86
+  - name: GnuPG Key Repository
+    url: https://k.revi.xyz/0xBEFF197A.asc
+    icon: https://static.miraheze.org/reviwiki/0/09/Reviwikifavicon.ico
+  - name: Google Calendar RSVP
+    url: $GOOGLECAL_URL
+    icon: https://workspace.google.com/favicon.ico
+  - name: Listed.To (note distributor)
+    url: https://listed.to/p/wrEd7iVigI
+  - name: Old Sharlayan
+    url: https://old.sharlayan.city/nodeinfo/2.0
+  - name: PasteBin (by omg.lol)
+    url: https://paste.revi.xyz/temp20230711-1/raw
+  - name: Traccar
+    url: https://traccar.revi.xyz
+  - name: URL Shortener (by omg.lol)
+    url: https://revi.kr/discord/wut
+  - name: Wiki (by Miraheze)
+    url: https://revi.wiki/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
+  - name: Old Blog (by Tistory)
+    url: https://tistory.revi.blog
+
+assignees:
+  - revi
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.revi.me
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://r2-cdn.revicdn.net/pfp2.png
+  name: reviNet Status (Powered by Upptime)
+  introTitle: "ReviNet Status Page"
+  introMessage: "[Upptime](https://github.com/upptime/upptime)으로 제공되는 서버 상태 페이지입니다."
   navbar:
+    - title: ReviNet
+      href: https://revi.xyz
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+workflowSchedule:
+  graphs: "0 3,15 * * *"
+  responseTime: "0 */6 * * *"
+  staticSite: "0 16 * * *"
+  summary: "0 3,15 * * *"
+  updateTemplate: "0 15 * * *"
+  updates: "0 6,18 * * *"
+  uptime: "*/5 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
