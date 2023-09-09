@@ -13,6 +13,8 @@ sites:
     icon: https://basecamp.com/favicon.ico 
   - name: Blog (by omg.lol)
     url: https://revi.blog/P86
+  - name: Fastmail
+    url: https://app.fastmail.com 
   - name: GnuPG Key Repository
     url: https://k.revi.xyz/0xBEFF197A.asc
     icon: https://static.miraheze.org/reviwiki/0/09/Reviwikifavicon.ico
@@ -21,10 +23,20 @@ sites:
     icon: https://workspace.google.com/favicon.ico
   - name: Listed.To (note distributor)
     url: https://listed.to/p/wrEd7iVigI
+  - name: Migadu
+    url: https://admin.migadu.com/public/login 
+  - name: Postmark
+    url: https://api.postmarkapp.com/senders?count=50&offset=0
+    icon: https://postmarkapp.com/images/favicon.ico
+    headers:
+      - "Accept: application/json"
+      - "X-Postmark-Server-Token: $POSTMARK_TOKEN"
   - name: Old Sharlayan
     url: https://old.sharlayan.city/nodeinfo/2.0
   - name: PasteBin (by omg.lol)
     url: https://paste.revi.xyz/temp20230711-1/raw
+  - name: Todoist
+    url: https://app.todoist.com/auth/login 
   - name: Traccar
     url: https://traccar.revi.xyz
   - name: URL Shortener (by omg.lol)
