@@ -30,7 +30,7 @@ sites:
     icon: https://postmarkapp.com/images/favicon.ico
     headers:
       - "Accept: application/json"
-      - "X-Postmark-Server-Token: $POSTMARK_TOKEN"
+      - "X-Postmark-Account-Token: $POSTMARK_TOKEN"
   - name: Old Sharlayan
     url: https://old.sharlayan.city/nodeinfo/2.0
   - name: PasteBin (by omg.lol)
