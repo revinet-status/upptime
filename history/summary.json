@@ -60,18 +60,20 @@
     "url": "https://revi.blog/P86",
     "icon": "https://icons.duckduckgo.com/ip3/revi.blog.ico",
     "slug": "blog-by-omg-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 718,
-    "timeWeek": 686,
-    "timeMonth": 686,
-    "timeYear": 686,
-    "dailyMinutesDown": {}
+    "time": 700,
+    "timeDay": 772,
+    "timeWeek": 700,
+    "timeMonth": 700,
+    "timeYear": 700,
+    "dailyMinutesDown": {
+      "2023-09-12": 0
+    }
   },
   {
     "name": "Fastmail",
