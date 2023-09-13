@@ -22,9 +22,9 @@
     "url": "https://bugs.revi.xyz/status/",
     "icon": "https://icons.duckduckgo.com/ip3/bugs.revi.xyz.ico",
     "slug": "revi-phab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 508,
     "timeMonth": 508,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-13": 0
+    }
   },
   {
     "name": "Basecamp",
