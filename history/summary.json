@@ -136,9 +136,9 @@
     "url": "https://listed.to/p/wrEd7iVigI",
     "icon": "https://icons.duckduckgo.com/ip3/listed.to.ico",
     "slug": "listed-to-note-distributor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,7 +147,9 @@
     "timeWeek": 438,
     "timeMonth": 434,
     "timeYear": 434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-15": 0
+    }
   },
   {
     "name": "Migadu",
@@ -283,11 +285,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/revi.wiki.ico",
     "slug": "wiki-by-miraheze",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.15%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 728,
     "timeDay": 638,
     "timeWeek": 728,
