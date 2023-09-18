@@ -14,7 +14,9 @@ sites:
   - name: Blog (by omg.lol)
     url: https://revi.blog/P86
   - name: Fastmail
-    url: https://app.fastmail.com 
+    url: https://app.fastmail.com
+  - name: git.silicon.moe
+    url: https://git.silicon.moe/revi/todo/-/issues/4
   - name: GnuPG Key Repository
     url: https://k.revi.xyz/0xBEFF197A.asc
     icon: https://static.miraheze.org/reviwiki/0/09/Reviwikifavicon.ico
