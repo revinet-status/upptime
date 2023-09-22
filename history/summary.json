@@ -240,18 +240,20 @@
     "url": "https://paste.revi.xyz/temp20230711-1/raw",
     "icon": "https://icons.duckduckgo.com/ip3/paste.revi.xyz.ico",
     "slug": "paste-bin-by-omg-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 414,
-    "timeWeek": 407,
-    "timeMonth": 389,
-    "timeYear": 389,
-    "dailyMinutesDown": {}
+    "time": 399,
+    "timeDay": 536,
+    "timeWeek": 427,
+    "timeMonth": 399,
+    "timeYear": 399,
+    "dailyMinutesDown": {
+      "2023-09-22": 0
+    }
   },
   {
     "name": "Todoist",
@@ -294,18 +296,20 @@
     "url": "https://revi.kr/discord/wut",
     "icon": "https://icons.duckduckgo.com/ip3/revi.kr.ico",
     "slug": "url-shortener-by-omg-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 351,
-    "timeWeek": 384,
-    "timeMonth": 382,
-    "timeYear": 382,
-    "dailyMinutesDown": {}
+    "time": 389,
+    "timeDay": 451,
+    "timeWeek": 399,
+    "timeMonth": 389,
+    "timeYear": 389,
+    "dailyMinutesDown": {
+      "2023-09-22": 0
+    }
   },
   {
     "name": "Wiki (by Miraheze)",
