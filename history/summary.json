@@ -283,9 +283,9 @@
     "url": "https://traccar.revi.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/traccar.revi.xyz.ico",
     "slug": "traccar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -294,7 +294,9 @@
     "timeWeek": 396,
     "timeMonth": 399,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-26": 0
+    }
   },
   {
     "name": "URL Shortener (by omg.lol)",
