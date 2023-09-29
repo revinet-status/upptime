@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 # Order of sites: Main Page/ReviPhab above anything else, then ABC order, then legacy sites.
 sites:
   - name: Main Page
-    url: https://revi.xyz
+    url: https://revi.xyz/
   - name: ReviPhab
     url: https://bugs.revi.xyz/status/
   - name: Basecamp
@@ -14,7 +14,7 @@ sites:
   - name: Blog (by omg.lol)
     url: https://revi.blog/P86
   - name: Fastmail
-    url: https://app.fastmail.com
+    url: https://app.fastmail.com/
   - name: git.silicon.moe
     url: https://git.silicon.moe/revi/todo/-/issues/4
   - name: GnuPG Key Repository
@@ -40,13 +40,18 @@ sites:
   - name: Todoist
     url: https://app.todoist.com/auth/login 
   - name: Traccar
-    url: https://traccar.revi.xyz
+    url: https://traccar.revi.xyz/
   - name: URL Shortener (by omg.lol)
     url: https://revi.kr/discord/wut
   - name: Wiki (by Miraheze)
     url: https://revi.wiki/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
   - name: Old Blog (by Tistory)
-    url: https://tistory.revi.blog
+    url: https://tistory.revi.blog/
+  - name: ShinhanCard
+    url: https://www.shinhancard.com/
+  - name: HyundaiCard
+    url: https://www.hyundaicard.com/
+
 
 assignees:
   - revi
@@ -76,7 +81,7 @@ commitMessages:
 workflowSchedule:
   graphs: "0 3,9,15,21 * * *"
   responseTime: "0 */6 * * *"
-  staticSite: "0 17 * * *"
+  staticSite: "0 17 * * 1"
   summary: "59 */6 * * *"
   updateTemplate: "0 15 * * 1"
   updates: "0 20 * * *"
