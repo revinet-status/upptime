@@ -1,7 +1,7 @@
 url: https://app.todoist.com/auth/login
-status: down
-code: 503
-responseTime: 259
-lastUpdated: 2023-09-29T04:36:57.789Z
+status: up
+code: 200
+responseTime: 150
+lastUpdated: 2023-09-29T04:42:42.919Z
 startTime: 2023-09-09T06:00:55.567Z
 generator: Upptime <https://github.com/upptime/upptime>
