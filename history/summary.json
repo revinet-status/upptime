@@ -393,19 +393,19 @@
     "url": "https://www.hyundaicard.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hyundaicard.com.ico",
     "slug": "hyundai-card",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1847,
-    "timeDay": 1881,
-    "timeWeek": 1847,
-    "timeMonth": 1847,
-    "timeYear": 1847,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 1916,
+    "timeDay": 1956,
+    "timeWeek": 1916,
+    "timeMonth": 1916,
+    "timeYear": 1916,
     "dailyMinutesDown": {
-      "2023-09-30": 0
+      "2023-09-30": 5
     }
   }
 ]
