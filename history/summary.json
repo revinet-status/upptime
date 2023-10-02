@@ -378,18 +378,19 @@
     "url": "https://www.shinhancard.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.shinhancard.com.ico",
     "slug": "shinhan-card",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "99.40%",
+    "uptimeDay": "99.58%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
     "time": 1621,
-    "timeDay": 1805,
+    "timeDay": 1689,
     "timeWeek": 1621,
     "timeMonth": 1621,
     "timeYear": 1621,
     "dailyMinutesDown": {
+      "2023-10-02": 0,
       "2023-10-01": 12
     }
   },
