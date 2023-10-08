@@ -15,6 +15,8 @@ sites:
     url: https://revi.blog/P86
   - name: Fastmail
     url: https://app.fastmail.com/
+  - name: Firefly 3
+    url: https://ff3.revi.xyz/ 
   - name: git.silicon.moe
     url: https://git.silicon.moe/revi/todo/-/issues/4
   - name: GnuPG Key Repository
