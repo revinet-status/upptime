@@ -16,7 +16,7 @@ sites:
   - name: Fastmail
     url: https://app.fastmail.com/
   - name: Firefly 3
-    url: https://ff3.revi.xyz/ 
+    url: https://ff3.revi.xyz/login
   - name: git.silicon.moe
     url: https://git.silicon.moe/revi/todo/-/issues/4
   - name: GnuPG Key Repository
