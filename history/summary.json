@@ -140,9 +140,9 @@
     "url": "https://git.silicon.moe/revi/todo/-/issues/4",
     "icon": "https://icons.duckduckgo.com/ip3/git.silicon.moe.ico",
     "slug": "git-silicon-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.10%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.37%",
@@ -152,6 +152,7 @@
     "timeMonth": 1126,
     "timeYear": 1126,
     "dailyMinutesDown": {
+      "2023-10-09": 0,
       "2023-10-07": 191
     }
   },
@@ -359,11 +360,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/revi.wiki.ico",
     "slug": "wiki-by-miraheze",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "99.48%",
+    "uptimeYear": "99.49%",
     "time": 906,
     "timeDay": 792,
     "timeWeek": 793,
