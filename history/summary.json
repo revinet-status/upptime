@@ -225,19 +225,19 @@
     "url": "https://admin.migadu.com/public/login",
     "icon": "https://icons.duckduckgo.com/ip3/admin.migadu.com.ico",
     "slug": "migadu",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 731,
-    "timeDay": 599,
-    "timeWeek": 1335,
-    "timeMonth": 790,
-    "timeYear": 731,
+    "time": 730,
+    "timeDay": 596,
+    "timeWeek": 1309,
+    "timeMonth": 788,
+    "timeYear": 730,
     "dailyMinutesDown": {
-      "2023-10-19": 0
+      "2023-10-19": 3
     }
   },
   {
