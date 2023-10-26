@@ -1,7 +1,7 @@
 url: https://ff3.revi.xyz/login
-status: up
-code: 200
-responseTime: 285
-lastUpdated: 2023-10-26T06:24:08.564Z
+status: down
+code: 503
+responseTime: 92
+lastUpdated: 2023-10-26T12:02:39.000Z
 startTime: 2023-10-08T18:42:56.265Z
 generator: Upptime <https://github.com/upptime/upptime>
