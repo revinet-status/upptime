@@ -424,9 +424,9 @@
     "url": "https://tistory.revi.blog/",
     "icon": "https://icons.duckduckgo.com/ip3/tistory.revi.blog.ico",
     "slug": "old-blog-by-tistory",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
@@ -436,6 +436,7 @@
     "timeMonth": 1629,
     "timeYear": 1676,
     "dailyMinutesDown": {
+      "2023-11-02": 0,
       "2023-10-30": 5,
       "2023-09-23": 5
     }
