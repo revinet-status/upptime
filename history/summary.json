@@ -118,9 +118,9 @@
     "url": "https://app.fastmail.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.fastmail.com.ico",
     "slug": "fastmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -129,7 +129,9 @@
     "timeWeek": 220,
     "timeMonth": 206,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 0
+    }
   },
   {
     "name": "Firefly 3",
@@ -446,12 +448,12 @@
     "uptime": "99.95%",
     "uptimeDay": "99.69%",
     "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.95%",
     "time": 1685,
     "timeDay": 1544,
     "timeWeek": 1712,
-    "timeMonth": 1691,
+    "timeMonth": 1676,
     "timeYear": 1685,
     "dailyMinutesDown": {
       "2023-11-02": 4,
@@ -465,11 +467,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hyundaicard.com.ico",
     "slug": "hyundai-card",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "98.97%",
+    "uptimeYear": "98.98%",
     "time": 1907,
     "timeDay": 1897,
     "timeWeek": 1881,
