@@ -473,8 +473,8 @@
     "url": "https://www.hyundaicard.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hyundaicard.com.ico",
     "slug": "hyundai-card",
-    "status": "up",
-    "uptime": "99.06%",
+    "status": "down",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "98.89%",
@@ -485,6 +485,7 @@
     "timeMonth": 1905,
     "timeYear": 1909,
     "dailyMinutesDown": {
+      "2023-11-05": -60,
       "2023-10-31": 4,
       "2023-10-30": 5,
       "2023-10-29": 16,
