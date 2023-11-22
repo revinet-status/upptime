@@ -32,9 +32,9 @@
     "url": "https://bugs.revi.xyz/status/",
     "icon": "https://icons.duckduckgo.com/ip3/bugs.revi.xyz.ico",
     "slug": "revi-phab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -44,6 +44,7 @@
     "timeMonth": 6987,
     "timeYear": 1869,
     "dailyMinutesDown": {
+      "2023-11-22": 0,
       "2023-09-13": 1
     }
   },
