@@ -7,7 +7,7 @@ sites:
   - name: Main Page
     url: https://revi.xyz/
   - name: ReviPhab
-    url: https://bugs.revi.xyz/status/
+    url: https://stuff.revi.xyz/status/
   - name: Basecamp
     url: $BASECAMP_URL
     icon: https://basecamp.com/favicon.ico 
