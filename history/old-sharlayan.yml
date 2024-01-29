@@ -1,7 +1,7 @@
 url: https://old.sharlayan.city/nodeinfo/2.0
-status: down
-code: 502
-responseTime: 400
-lastUpdated: 2024-01-29T23:05:43.263Z
+status: up
+code: 200
+responseTime: 956
+lastUpdated: 2024-01-29T23:15:27.406Z
 startTime: 2023-09-08T08:42:39.819Z
 generator: Upptime <https://github.com/upptime/upptime>
