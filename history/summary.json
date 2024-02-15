@@ -104,15 +104,15 @@
     "url": "$BASECAMP_URL",
     "icon": "https://basecamp.com/favicon.ico",
     "slug": "basecamp",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.25%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.22%",
     "uptimeWeek": "97.91%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 151,
-    "timeDay": 116,
-    "timeWeek": 133,
+    "timeDay": 113,
+    "timeWeek": 132,
     "timeMonth": 138,
     "timeYear": 151,
     "dailyMinutesDown": {
@@ -151,8 +151,7 @@
       "2023-10-13": 9,
       "2023-10-08": 7,
       "2023-10-07": 19,
-      "2023-10-06": 7,
-      "2023-10-05": 7
+      "2023-10-06": 7
     }
   },
   {
