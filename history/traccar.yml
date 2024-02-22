@@ -1,7 +1,7 @@
 url: https://traccar.revi.xyz/
-status: up
-code: 200
-responseTime: 286
-lastUpdated: 2024-02-22T12:30:18.597Z
+status: down
+code: 503
+responseTime: 307
+lastUpdated: 2024-02-22T14:45:51.832Z
 startTime: 2023-09-08T08:42:41.806Z
 generator: Upptime <https://github.com/upptime/upptime>
