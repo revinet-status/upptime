@@ -104,14 +104,14 @@
     "url": "$BASECAMP_URL",
     "icon": "https://basecamp.com/favicon.ico",
     "slug": "basecamp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "95.14%",
+    "uptimeDay": "95.12%",
     "uptimeWeek": "96.97%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.84%",
     "time": 152,
-    "timeDay": 130,
+    "timeDay": 128,
     "timeWeek": 136,
     "timeMonth": 147,
     "timeYear": 152,
@@ -127,7 +127,7 @@
       "2024-02-17": 32,
       "2024-02-16": 24,
       "2024-02-15": 14,
-      "2024-02-14": 4
+      "2024-02-14": 1
     }
   },
   {
