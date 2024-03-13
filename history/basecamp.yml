@@ -1,7 +1,7 @@
 url: $BASECAMP_URL
-status: up
-code: 200
-responseTime: 151
-lastUpdated: 2024-03-13T04:35:38.722Z
+status: down
+code: 403
+responseTime: 87
+lastUpdated: 2024-03-13T05:10:50.555Z
 startTime: 2023-09-08T08:42:35.575Z
 generator: Upptime <https://github.com/upptime/upptime>
