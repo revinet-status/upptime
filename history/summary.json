@@ -104,15 +104,15 @@
     "url": "$BASECAMP_URL",
     "icon": "https://basecamp.com/favicon.ico",
     "slug": "basecamp",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "96.54%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "96.52%",
     "uptimeWeek": "96.92%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.85%",
+    "uptimeMonth": "99.09%",
+    "uptimeYear": "99.86%",
     "time": 147,
-    "timeDay": 135,
-    "timeWeek": 155,
+    "timeDay": 133,
+    "timeWeek": 154,
     "timeMonth": 136,
     "timeYear": 147,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
       "2024-03-12": 33,
       "2024-03-11": 26,
       "2024-03-10": 61,
-      "2024-03-09": 12
+      "2024-03-09": 7
     }
   },
   {
@@ -264,7 +264,7 @@
     "uptime": "91.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.85%",
+    "uptimeMonth": "49.83%",
     "uptimeYear": "91.00%",
     "time": 1029,
     "timeDay": 696,
@@ -272,7 +272,7 @@
     "timeMonth": 810,
     "timeYear": 1029,
     "dailyMinutesDown": {
-      "2024-03-18": 967,
+      "2024-03-18": 971,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
