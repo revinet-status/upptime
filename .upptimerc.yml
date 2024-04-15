@@ -25,7 +25,7 @@ sites:
   - name: Listed.To (note distributor)
     url: https://listed.to/p/wrEd7iVigI
   - name: Migadu
-    url: https://admin.migadu.com/public/login 
+    url: https://admin.migadu.com/public/login
   - name: Postmark
     url: https://api.postmarkapp.com/senders?count=50&offset=0
     icon: https://postmarkapp.com/images/favicon.ico
@@ -36,8 +36,10 @@ sites:
     url: https://old.sharlayan.city/nodeinfo/2.0
   - name: PasteBin (by omg.lol)
     url: https://paste.revi.xyz/temp20230711-1/raw
+  - name: Tailscale
+    url: https://login.tailscale.com/login
   - name: Todoist
-    url: https://app.todoist.com/auth/login 
+    url: https://app.todoist.com/auth/login
   - name: Traccar
     url: https://traccar.revi.xyz/
   - name: URL Shortener (by omg.lol)
