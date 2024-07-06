@@ -1,7 +1,7 @@
 url: https://revi.wiki/w/api.php?action=query&meta=siteinfo&siprop=statistics&format=json
 status: up
 code: 200
-responseTime: 479
-lastUpdated: 2024-07-06T01:21:15.369Z
+responseTime: 545
+lastUpdated: 2024-07-06T06:24:30.553Z
 startTime: 2023-09-08T08:42:43.436Z
 generator: Upptime <https://github.com/upptime/upptime>
