@@ -1,7 +1,7 @@
 url: https://admin.migadu.com/public/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-06T12:39:23.854Z
+status: up
+code: 200
+responseTime: 419
+lastUpdated: 2024-09-06T12:51:39.208Z
 startTime: 2023-09-09T06:00:49.274Z
 generator: Upptime <https://github.com/upptime/upptime>
