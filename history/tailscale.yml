@@ -1,7 +1,7 @@
 url: https://login.tailscale.com/login
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-21T21:20:57.788Z
+status: up
+code: 200
+responseTime: 432
+lastUpdated: 2024-09-21T21:27:58.618Z
 startTime: 2024-04-15T18:13:26.695Z
 generator: Upptime <https://github.com/upptime/upptime>
