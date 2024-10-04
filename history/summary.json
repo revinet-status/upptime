@@ -141,7 +141,7 @@
     "timeMonth": 219,
     "timeYear": 565,
     "dailyMinutesDown": {
-      "2024-10-04": 435,
+      "2024-10-04": 468,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
@@ -785,18 +785,19 @@
     "url": "https://paste.revi.xyz/temp20230711-1/raw",
     "icon": "https://icons.duckduckgo.com/ip3/paste.revi.xyz.ico",
     "slug": "paste-bin-by-omg-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.44%",
-    "time": 464,
-    "timeDay": 301,
-    "timeWeek": 327,
-    "timeMonth": 377,
-    "timeYear": 468,
+    "time": 465,
+    "timeDay": 874,
+    "timeWeek": 425,
+    "timeMonth": 399,
+    "timeYear": 469,
     "dailyMinutesDown": {
+      "2024-10-04": 1,
       "2024-09-17": 19,
       "2024-09-10": 27,
       "2024-07-29": 9,
@@ -852,7 +853,7 @@
       "2024-03-03": 5,
       "2024-03-02": 565,
       "2024-03-01": 3,
-      "2024-02-28": 10
+      "2024-02-28": 8
     }
   },
   {
@@ -1176,7 +1177,7 @@
     "timeMonth": 0,
     "timeYear": 1945,
     "dailyMinutesDown": {
-      "2024-10-04": 436,
+      "2024-10-04": 470,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
       "2024-10-01": 1440,
