@@ -1,7 +1,7 @@
 url: https://api.postmarkapp.com/senders?count=50&offset=0
 status: up
 code: 200
-responseTime: 160
-lastUpdated: 2024-10-09T18:29:11.586Z
+responseTime: 80
+lastUpdated: 2024-10-10T01:42:55.067Z
 startTime: 2023-09-09T06:00:50.494Z
 generator: Upptime <https://github.com/upptime/upptime>
