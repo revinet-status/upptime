@@ -135,7 +135,7 @@
     "timeMonth": 210,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2024-11-19": 699,
+      "2024-11-19": 708,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
@@ -819,10 +819,10 @@
     "url": "https://paste.revi.xyz/temp20230711-1/raw",
     "icon": "https://icons.duckduckgo.com/ip3/paste.revi.xyz.ico",
     "slug": "paste-bin-by-omg-lol",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "95.36%",
-    "uptimeWeek": "99.14%",
+    "status": "down",
+    "uptime": "99.58%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "99.12%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "99.49%",
     "time": 470,
@@ -831,7 +831,7 @@
     "timeMonth": 464,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2024-11-19": 57,
+      "2024-11-19": 59,
       "2024-11-18": 10,
       "2024-11-16": 20,
       "2024-11-06": 29,
@@ -889,7 +889,7 @@
       "2024-03-14": 11,
       "2024-03-12": 5,
       "2024-03-11": 94,
-      "2024-03-10": 43
+      "2024-03-10": 38
     }
   },
   {
@@ -967,19 +967,19 @@
     "url": "https://revi.kr/discord/wut",
     "icon": "https://icons.duckduckgo.com/ip3/revi.kr.ico",
     "slug": "url-shortener-by-omg-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "98.60%",
-    "time": 462,
+    "time": 461,
     "timeDay": 431,
     "timeWeek": 422,
     "timeMonth": 472,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-11-19": 56,
+      "2024-11-19": 58,
       "2024-11-05": 8,
       "2024-10-29": 25,
       "2024-10-27": 289,
@@ -1046,7 +1046,7 @@
       "2024-01-29": 4,
       "2024-01-27": 2,
       "2024-01-19": 5,
-      "2024-01-18": 8
+      "2024-01-18": 4
     }
   },
   {
@@ -1188,7 +1188,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hyundaicard.com.ico",
     "slug": "hyundai-card",
     "status": "down",
-    "uptime": "66.13%",
+    "uptime": "66.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1199,7 +1199,7 @@
     "timeMonth": 0,
     "timeYear": 1953,
     "dailyMinutesDown": {
-      "2024-11-19": 700,
+      "2024-11-19": 710,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
