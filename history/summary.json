@@ -135,7 +135,7 @@
     "timeMonth": 209,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2024-11-19": 806,
+      "2024-11-19": 814,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
@@ -819,11 +819,11 @@
     "url": "https://paste.revi.xyz/temp20230711-1/raw",
     "icon": "https://icons.duckduckgo.com/ip3/paste.revi.xyz.ico",
     "slug": "paste-bin-by-omg-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "91.29%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "98.79%",
+    "uptimeDay": "91.14%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "99.48%",
     "time": 470,
     "timeDay": 570,
@@ -831,7 +831,7 @@
     "timeMonth": 465,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2024-11-19": 116,
+      "2024-11-19": 118,
       "2024-11-18": 10,
       "2024-11-16": 20,
       "2024-11-06": 29,
@@ -889,7 +889,7 @@
       "2024-03-14": 11,
       "2024-03-12": 5,
       "2024-03-11": 94,
-      "2024-03-10": 38
+      "2024-03-10": 33
     }
   },
   {
@@ -967,10 +967,10 @@
     "url": "https://revi.kr/discord/wut",
     "icon": "https://icons.duckduckgo.com/ip3/revi.kr.ico",
     "slug": "url-shortener-by-omg-lol",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "92.09%",
-    "uptimeWeek": "98.87%",
+    "uptimeDay": "91.94%",
+    "uptimeWeek": "98.85%",
     "uptimeMonth": "99.00%",
     "uptimeYear": "98.59%",
     "time": 461,
@@ -979,7 +979,7 @@
     "timeMonth": 471,
     "timeYear": 468,
     "dailyMinutesDown": {
-      "2024-11-19": 114,
+      "2024-11-19": 116,
       "2024-11-05": 8,
       "2024-10-29": 25,
       "2024-10-27": 289,
@@ -1045,8 +1045,7 @@
       "2024-01-30": 6,
       "2024-01-29": 4,
       "2024-01-27": 2,
-      "2024-01-19": 5,
-      "2024-01-18": 4
+      "2024-01-19": 5
     }
   },
   {
@@ -1199,7 +1198,7 @@
     "timeMonth": 0,
     "timeYear": 1953,
     "dailyMinutesDown": {
-      "2024-11-19": 808,
+      "2024-11-19": 816,
       "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
